@@ -1,10 +1,10 @@
 {
   "ads": {
-    "id_app": "5eddf54135810c06f487c05c",
-    "banner_setting": "ca-app-pub-8541594829243773/2742359703",
-    "inter_setting": "ca-app-pub-8541594829243773/9766082997",
-    "banner_main": "ca-app-pub-8541594829243773/6681604716",
-    "inter_main": "ca-app-pub-8541594829243773/4055441377"
+    "id_app": "5",
+    "banner_setting": "ca-app-pub-8541594829243773/8869504533",
+    "inter_setting": "ca-app-pub-8541594829243773/3617177858",
+    "banner_main": "ca-app-pub-8541594829243773/1427140545",
+    "inter_main": "ca-app-pub-8541594829243773/5121831218"
   }, 
   "app_exists": {
     "id": "com.captainhenry.videocall.prank",
